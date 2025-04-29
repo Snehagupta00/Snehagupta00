@@ -1,5 +1,5 @@
 # 💫 About Me: - 😊. Hi, I’m Sneha Gupta.
-<br><br>🌱 I’m currently learning Full-Stack Web Development under the mentorship of DevTown.<br><br>- 👨‍💻 All of my projects are available at https://github.com/Snehagupta00<br><br>- 💬 Ask me about C language ,Python ,JAVA,HTML,CSS,Js & POSTMAN<br><br>- 📫 How to reach me snehagupta28102003@gmail.com
+<br><br>🌱 I’m currently learning Full-Stack Web Development under the mentorship of DevTown.<br><br>- 👨‍💻 All of my projects are available at https://github.com/Snehagupta00<br><br>- 💬 Ask me about C language ,JAVA,HTML,CSS,Js,MERN & POSTMAN<br><br>- 📫 How to reach me snehagupta28102003@gmail.com
 
 
 ## 🌐 Socials:
